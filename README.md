@@ -1,22 +1,26 @@
-# GOIT Practice Test Assignment
+# Startup instructions
+This guide will help you run the test-task project on your computer.
 
-1. A set of informative cards are created with tweets, followers' and avatar info, and interactivity added when clicking on a button.
-2. Zustand state management is used for the initial state, calculation of the followers, and keeping track of the state.
-3. LocalStorage has been used to retrieve information when the page is reloaded.
+# Installation
+Clone the repository to your computer:
+git clone https://github.com/ShevchenkoOl/goit-test-task.git
 
-==========================================================================
+# Go to the project folder:
+cd goit-test-task
 
-## To work locally use next commands:
+# Install dependencies:
+npm install
 
-### npm install
+# launch
+Run the project:
+npm start
+Open a browser and navigate to http://localhost:3000.
 
-Installs node_modules and dependencies.
+# Additional Information
+ - This project is made with: HTML, CSS and JS;
+ - In the game, you have to click on the silhouettes of enemies to score points;
+ - To update the game, reload the page or click on the finish game;
 
-### npm start
-
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-
-### npm run build
-
-Builds the app for production to the build folder.
+# Author
+Project author: Oleksii Shevchenko
+Link to my GitHub profile: https://github.com/ShevchenkoOl
